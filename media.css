@@ -53,10 +53,6 @@
         width: 100%;
         margin-bottom: 1.5rem;
     } 
-    /* .social-icon{
-        width: 20px;
-        height: 20px;
-    }   */
 }
 @media screen and (max-width:850px) {
     body{
@@ -231,7 +227,6 @@
         padding-bottom: 2rem;
         text-align: center;
         font-size: 12px;
-
     }
 }
 @media screen and (max-width:450px){
