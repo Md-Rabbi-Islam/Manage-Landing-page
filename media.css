@@ -165,6 +165,8 @@
         text-align: center;
         width: 100%;
         margin-top: 4.5rem;
+        background-position:-12rem 1rem;
+        background-size: cover;
     }
     .footer-section{
         flex-direction: column;
@@ -337,7 +339,5 @@
     } 
     .copyright-text{
         font-size: 8px;
-    }
-
-    
+    } 
 }
