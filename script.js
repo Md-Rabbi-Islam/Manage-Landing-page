@@ -23,14 +23,10 @@ closeBtn.addEventListener('click',() => {
 window.addEventListener('resize',() => {   
     if (window.innerWidth>850) {
         hamburgerBtn.style.display = 'none';
-        // menu.style.display ='none';
         closeBtn.style.display ='none';       
     } else {
         hamburgerBtn.style.display ='block'; 
         menu.style.display ='none';
-
-
-
     }
 })
 
